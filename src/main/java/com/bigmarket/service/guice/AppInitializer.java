@@ -1,4 +1,4 @@
-package com.bigmarket.guice;
+package com.bigmarket.service.guice;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;

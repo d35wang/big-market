@@ -1,6 +1,6 @@
-package com.bigmarket.guice;
+package com.bigmarket.service.guice;
 
-import com.bigmarket.controller.PingController;
+import com.bigmarket.service.controller.PingController;
 
 import com.sun.jersey.guice.JerseyServletModule;
 import com.sun.jersey.guice.spi.container.servlet.GuiceContainer;

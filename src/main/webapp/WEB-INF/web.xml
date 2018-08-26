@@ -9,7 +9,7 @@
     </session-config>
 
     <listener>
-        <listener-class>com.bigmarket.guice.AppInitializer</listener-class>
+        <listener-class>com.bigmarket.service.guice.AppInitializer</listener-class>
     </listener>
     <filter>
         <filter-name>guiceFilter</filter-name>
